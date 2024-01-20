@@ -1,9 +1,9 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/miniconda
 {
-	"name": "Miniconda (Python 3)",
+	"name": "Miniconda (Python 3) vitaovich Codespace Test",
 	"build": { 
-		"context": "..",
+		"context": "../..",
 		"dockerfile": "Dockerfile"
 	},
 	"features": {
